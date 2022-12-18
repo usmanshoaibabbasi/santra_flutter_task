@@ -38,16 +38,6 @@ class Routes {
           ),
           direction: AxisDirection.left,
         );
-
-      /// Custom Page Route ///
-
-      ///
-
-      // case RoutesName.walkthroughone:
-      //   return MaterialPageRoute(
-      //     builder: (BuildContext context) => const WalkThroughOneView(),
-      //   );
-
       /// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
       /// when no route found default route
       default:

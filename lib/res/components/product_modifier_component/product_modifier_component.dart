@@ -48,8 +48,7 @@ class ProductModifierComponent extends StatelessWidget {
               ),
               GestureDetector(
                 onTap: () {
-                  debugPrint(
-                      'before ${modifierViewModel.modifierGroupSelectionModalList[passindex].modifierselection}');
+                  
                   bool previousselectModifierVal = modifierViewModel
                       .modifierGroupSelectionModalList[passindex]
                       .modifierselection!;
@@ -57,8 +56,7 @@ class ProductModifierComponent extends StatelessWidget {
                     index: passindex,
                     passval: !previousselectModifierVal,
                   );
-                  debugPrint(
-                      'after ${modifierViewModel.modifierGroupSelectionModalList[passindex].modifierselection}');
+                  
                 },
                 child: Container(
                   height: 25,
@@ -123,8 +121,7 @@ class ProductModifierComponent extends StatelessWidget {
                         var listMainIndex = modifierViewModel
                             .modifierGroupSelectionModalList[passindex];
                         if (listMainIndex.modifierselection == false) {
-                          debugPrint(
-                              'Please slect main modi ${listMainIndex.modifierselection}');
+                          
                           Utils.snackBar(
                             context: context,
                             message: 'Please slect main modifier',
@@ -132,15 +129,14 @@ class ProductModifierComponent extends StatelessWidget {
                             textColor: Colors.white,
                           );
                         } else {
-                          debugPrint(
-                              'before selected sub modi ${listMainIndex.subModifier![index]}');
+                          
                           bool subModifierPreviousVal = modifierViewModel
                               .modifierGroupSelectionModalList[passindex]
                               .subModifier![index];
                           if (listMainIndex.subModifier![index] == false &&
                               listMainIndex.subModifierTotalSelected! >
                                   listMainIndex.subModifierMaxSelection! - 1) {
-                            debugPrint('You can not select');
+                            
                             Utils.snackBar(
                               context: context,
                               message: 'Reached Max Selection',
@@ -154,10 +150,7 @@ class ProductModifierComponent extends StatelessWidget {
                               passval: !subModifierPreviousVal,
                               passPrice: int.parse(modifierGroupIndexData.subModifiers![index].priceModifier!),
                             );
-                            debugPrint(
-                                'After selected sub modi ${listMainIndex.subModifier![index]}');
-                            debugPrint(
-                                'After selected sub modifierTotal ///// ${listMainIndex.subModifierTotalSelected}');
+                            
                           }
                         }
                       },

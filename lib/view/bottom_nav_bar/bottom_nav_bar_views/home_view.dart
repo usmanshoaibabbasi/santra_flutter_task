@@ -33,9 +33,7 @@ class _HomeViewState extends State<HomeView> {
         backgroundColor: AppColor().appBackgroundcolor,
         body: Consumer<HomeViewModel>(
             builder: (context, valueOfHomeViewModel, child) {
-          debugPrint('${valueOfHomeViewModel.modifierListloading}');
-          debugPrint('modifiersModelList!.data![0].modifierGroup!.length}');
-          // debugPrint('${modifiersModelList!.data![0].modifierGroup!.length}');
+          
           return valueOfHomeViewModel.modifierListloading == true
               ? const Center(
                   child: Text('Processing'),

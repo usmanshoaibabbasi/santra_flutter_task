@@ -37,12 +37,7 @@ class _ProductModifierScreenState extends State<ProductModifierScreen> {
       modifierGroupList: widget.productData!.modifierGroup,
     );
 
-    debugPrint(
-        'first ${widget.productData!.modifierGroup![1].limitModifiers.toString().split(',').first}');
-    debugPrint(
-        'last ${widget.productData!.modifierGroup![1].limitModifiers.toString().split(',').last}');
-    debugPrint(
-        'last ${widget.productData!.modifierGroup![1].subModifiers!.length}');
+    
     super.initState();
   }
 
@@ -176,10 +171,7 @@ class _ProductModifierScreenState extends State<ProductModifierScreen> {
                 for (int i = 0; i < listIndex.length; i++) {
                   if (listIndex[i].subModifierTotalSelected! <
                       listIndex[i].subModifierMinSelection!) {
-                    // debugPrint(
-                    //     'subModifierTotalSelected  ${listIndex[i].subModifierTotalSelected} index $i ');
-                    // debugPrint(
-                    //     'subModifierMinSelection ${listIndex[i].subModifierMinSelection} index  $i');
+                    
                     modifierViewModel.setCanAddCart(false);
                   }
                   for (int j = 0; j < listIndex[i].subModifier!.length; j++) {
@@ -192,15 +184,12 @@ class _ProductModifierScreenState extends State<ProductModifierScreen> {
                       );
                       modifierViewModel.modifierGroupCartModalList
                           .add(modifierGroupCartModal);
-                      // debugPrint(widget.productData!.modifierGroup![i]
-                      //     .subModifiers![j].nameModifier);
+                      
                     }
                   }
                 }
                 if (modifierViewModel.canAddCart == true) {
-                  /// Good To Go
-                  ///
-                  debugPrint('Good To Go');
+                  
                   Navigator.pushNamed(
                     context,
                     RoutesName.cartscreenroute,
@@ -210,12 +199,7 @@ class _ProductModifierScreenState extends State<ProductModifierScreen> {
                       'categoryName': widget.productData!.categoryName!,
                     },
                   );
-                  // for (int k = 0;
-                  //     k < modifierViewModel.modifierGroupCartModalList.length;
-                  //     k++) {
-                  //   debugPrint(
-                  //       '${modifierViewModel.modifierGroupCartModalList[k].subModifierIndex}');
-                  // }
+                  
                 } else {
                   ///
                   Utils.snackBar(

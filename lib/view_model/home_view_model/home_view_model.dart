@@ -23,11 +23,7 @@ class HomeViewModel with ChangeNotifier {
     final data = await json.decode(response);
 
     // Future.delayed(const Duration(milliseconds: 1000), () {
-      _modifiersModelList = ModifiersModel.fromJson(data);
-      setLoading(false);
-      // debugPrint('${modifiersModelList!.data![0].businessName}');
-      // debugPrint('${modifiersModelList!.data!.length}');
-      // debugPrint('${modifiersModelList!.data![0].modifierGroup!.length}');
-    // });
+    _modifiersModelList = ModifiersModel.fromJson(data);
+    setLoading(false);
   }
 }
