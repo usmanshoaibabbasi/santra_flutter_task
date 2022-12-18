@@ -1,0 +1,914 @@
+﻿{
+   "status": true,
+   "data": [
+       {
+           "seller_city": "Sharjah",
+           "preparation_time": "0",
+           "seller_code": "22121311590854",
+           "pf": 0,
+           "business_name": "Departure perfumes",
+           "business_logo": "../assets/logos/logo_8964524010.jpg",
+           "product_code": "2088",
+           "product_name": "IPHONE COVER",
+           "product_description": "",
+           "product_price": "40",
+           "product_a_quantity": "0",
+           "product_type": "Beauty",
+           "product_payment_mode": "0",
+           "category_code": "1",
+           "category_name": "Main Course",
+           "product_status": "approved",
+           "skin_types": "",
+           "gender_types": "",
+           "allergy_details": "",
+           "dynamic_link": "https://santracustomers.page.link/BxFUXyPWvBBMSzLM6",
+           "product_images": {
+               "images": [
+                   "../assets/product_images/logo_328352776.jpeg",
+                   "../assets/product_images/pimage_924155233.jpeg"
+               ],
+               "videos": [
+                   "by_default.jpg",
+                   "by_default.jpg",
+                   "by_default.jpg"
+               ]
+           },
+           "modifier_group": [
+               {
+                   "group_code": "136",
+                   "name": "Type",
+                   "limit_modifiers": "1,1",
+                   "number_modifiers": "13",
+                   "selection_type": "radio",
+                   "modifier_message": "Please select the type",
+                   "sub_modifiers": [
+                       {
+                           "modifier_code": "321",
+                           "name_modifier": "iPhone 11",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "322",
+                           "name_modifier": "iPhone 11 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "323",
+                           "name_modifier": "iPhone 11 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "324",
+                           "name_modifier": "iPhone 12",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "325",
+                           "name_modifier": "iPhone 12 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "326",
+                           "name_modifier": "iPhone 12 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "327",
+                           "name_modifier": "iPhone 13",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "328",
+                           "name_modifier": "iPhone 13 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "329",
+                           "name_modifier": "iPhone 13 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "330",
+                           "name_modifier": "iPhone 14",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "331",
+                           "name_modifier": "iPhone 14 Plus",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "332",
+                           "name_modifier": "iPhone 14 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "333",
+                           "name_modifier": "iPhone 14 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       }
+                   ]
+               },
+               {
+                   "group_code": "137",
+                   "name": "Grip",
+                   "limit_modifiers": "0,1",
+                   "number_modifiers": "27",
+                   "selection_type": "radio",
+                   "modifier_message": "Please choose Grip design as per the picture",
+                   "sub_modifiers": [
+                       {
+                           "modifier_code": "321",
+                           "name_modifier": "iPhone 11",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "322",
+                           "name_modifier": "iPhone 11 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "323",
+                           "name_modifier": "iPhone 11 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "324",
+                           "name_modifier": "iPhone 12",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "325",
+                           "name_modifier": "iPhone 12 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "326",
+                           "name_modifier": "iPhone 12 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "327",
+                           "name_modifier": "iPhone 13",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "328",
+                           "name_modifier": "iPhone 13 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "329",
+                           "name_modifier": "iPhone 13 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "330",
+                           "name_modifier": "iPhone 14",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "331",
+                           "name_modifier": "iPhone 14 Plus",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "332",
+                           "name_modifier": "iPhone 14 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "333",
+                           "name_modifier": "iPhone 14 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "334",
+                           "name_modifier": "01",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "335",
+                           "name_modifier": "02",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "336",
+                           "name_modifier": "03",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "337",
+                           "name_modifier": "04",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "338",
+                           "name_modifier": "05",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "339",
+                           "name_modifier": "06",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "340",
+                           "name_modifier": "07",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "341",
+                           "name_modifier": "08",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "342",
+                           "name_modifier": "09",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "343",
+                           "name_modifier": "10",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "344",
+                           "name_modifier": "11",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "345",
+                           "name_modifier": "12",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "346",
+                           "name_modifier": "13",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "347",
+                           "name_modifier": "14",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "348",
+                           "name_modifier": "15",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "349",
+                           "name_modifier": "16",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "350",
+                           "name_modifier": "17",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "351",
+                           "name_modifier": "18",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "352",
+                           "name_modifier": "19",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "353",
+                           "name_modifier": "20",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "354",
+                           "name_modifier": "21",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "355",
+                           "name_modifier": "22",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "356",
+                           "name_modifier": "23",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "357",
+                           "name_modifier": "24",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "358",
+                           "name_modifier": "25",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "359",
+                           "name_modifier": "26",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "360",
+                           "name_modifier": "27",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       }
+                   ]
+               },
+               {
+                   "group_code": "158",
+                   "name": "Test open field ",
+                   "limit_modifiers": "1,2",
+                   "number_modifiers": "2",
+                   "selection_type": "textfield",
+                   "modifier_message": "This is test message ",
+                   "sub_modifiers": [
+                       {
+                           "modifier_code": "321",
+                           "name_modifier": "iPhone 11",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "322",
+                           "name_modifier": "iPhone 11 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "323",
+                           "name_modifier": "iPhone 11 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "324",
+                           "name_modifier": "iPhone 12",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "325",
+                           "name_modifier": "iPhone 12 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "326",
+                           "name_modifier": "iPhone 12 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "327",
+                           "name_modifier": "iPhone 13",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "328",
+                           "name_modifier": "iPhone 13 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "329",
+                           "name_modifier": "iPhone 13 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "330",
+                           "name_modifier": "iPhone 14",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "331",
+                           "name_modifier": "iPhone 14 Plus",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "332",
+                           "name_modifier": "iPhone 14 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "333",
+                           "name_modifier": "iPhone 14 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "334",
+                           "name_modifier": "01",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "335",
+                           "name_modifier": "02",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "336",
+                           "name_modifier": "03",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "337",
+                           "name_modifier": "04",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "338",
+                           "name_modifier": "05",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "339",
+                           "name_modifier": "06",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "340",
+                           "name_modifier": "07",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "341",
+                           "name_modifier": "08",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "342",
+                           "name_modifier": "09",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "343",
+                           "name_modifier": "10",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "344",
+                           "name_modifier": "11",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "345",
+                           "name_modifier": "12",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "346",
+                           "name_modifier": "13",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "347",
+                           "name_modifier": "14",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "348",
+                           "name_modifier": "15",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "349",
+                           "name_modifier": "16",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "350",
+                           "name_modifier": "17",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "351",
+                           "name_modifier": "18",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "352",
+                           "name_modifier": "19",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "353",
+                           "name_modifier": "20",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "354",
+                           "name_modifier": "21",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "355",
+                           "name_modifier": "22",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "356",
+                           "name_modifier": "23",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "357",
+                           "name_modifier": "24",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "358",
+                           "name_modifier": "25",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "359",
+                           "name_modifier": "26",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "360",
+                           "name_modifier": "27",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "477",
+                           "name_modifier": "Open field Test 1",
+                           "price_modifier": "22",
+                           "by_default": "1"
+                       },
+                       {
+                           "modifier_code": "478",
+                           "name_modifier": "Open field TEest 2",
+                           "price_modifier": "22",
+                           "by_default": "0"
+                       }
+                   ]
+               },
+               {
+                   "group_code": "159",
+                   "name": "Test Mulltiple option",
+                   "limit_modifiers": "2,2",
+                   "number_modifiers": "2",
+                   "selection_type": "checkbox",
+                   "modifier_message": "This is test modifiers ",
+                   "sub_modifiers": [
+                       {
+                           "modifier_code": "321",
+                           "name_modifier": "iPhone 11",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "322",
+                           "name_modifier": "iPhone 11 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "323",
+                           "name_modifier": "iPhone 11 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "324",
+                           "name_modifier": "iPhone 12",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "325",
+                           "name_modifier": "iPhone 12 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "326",
+                           "name_modifier": "iPhone 12 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "327",
+                           "name_modifier": "iPhone 13",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "328",
+                           "name_modifier": "iPhone 13 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "329",
+                           "name_modifier": "iPhone 13 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "330",
+                           "name_modifier": "iPhone 14",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "331",
+                           "name_modifier": "iPhone 14 Plus",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "332",
+                           "name_modifier": "iPhone 14 Pro",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "333",
+                           "name_modifier": "iPhone 14 Pro Max",
+                           "price_modifier": "0",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "334",
+                           "name_modifier": "01",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "335",
+                           "name_modifier": "02",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "336",
+                           "name_modifier": "03",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "337",
+                           "name_modifier": "04",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "338",
+                           "name_modifier": "05",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "339",
+                           "name_modifier": "06",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "340",
+                           "name_modifier": "07",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "341",
+                           "name_modifier": "08",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "342",
+                           "name_modifier": "09",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "343",
+                           "name_modifier": "10",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "344",
+                           "name_modifier": "11",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "345",
+                           "name_modifier": "12",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "346",
+                           "name_modifier": "13",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "347",
+                           "name_modifier": "14",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "348",
+                           "name_modifier": "15",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "349",
+                           "name_modifier": "16",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "350",
+                           "name_modifier": "17",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "351",
+                           "name_modifier": "18",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "352",
+                           "name_modifier": "19",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "353",
+                           "name_modifier": "20",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "354",
+                           "name_modifier": "21",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "355",
+                           "name_modifier": "22",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "356",
+                           "name_modifier": "23",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "357",
+                           "name_modifier": "24",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "358",
+                           "name_modifier": "25",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "359",
+                           "name_modifier": "26",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "360",
+                           "name_modifier": "27",
+                           "price_modifier": "25",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "477",
+                           "name_modifier": "Open field Test 1",
+                           "price_modifier": "22",
+                           "by_default": "1"
+                       },
+                       {
+                           "modifier_code": "478",
+                           "name_modifier": "Open field TEest 2",
+                           "price_modifier": "22",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "479",
+                           "name_modifier": "Test multiple option",
+                           "price_modifier": "22",
+                           "by_default": "0"
+                       },
+                       {
+                           "modifier_code": "480",
+                           "name_modifier": "Test multiple ",
+                           "price_modifier": "3",
+                           "by_default": "1"
+                       }
+                   ]
+               }
+           ]
+       }
+   ]
+}
